@@ -1,0 +1,9 @@
+# API keys — never commit
+.env
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
