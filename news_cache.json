@@ -61,7 +61,10 @@
       "rate hike",
       "rate cut",
       "liquidity",
-      "bond yield"
+      "bond yield",
+      "valued",
+      "firms",
+      "erodes"
     ],
     "policy": [
       "sebi",
@@ -98,7 +101,10 @@
       "dollar index",
       "trump",
       "tariff",
-      "assault"
+      "assault",
+      "stock",
+      "market",
+      "shrugs"
     ],
     "company-specific": [
       "agm",
@@ -285,12 +291,16 @@
     "HDFC Bank gains 3%, extends rebound for second day; analyst says buy on dip - Business Standard": "company-specific",
     "bp and Infosys to develop \u2018Energy as a Service\u2019 solution for campuses and cities | BP India news | bp India - Home - BP": "company-specific",
     "IT Operations Transformation for FrieslandCampina - Wipro": "company-specific",
-    "Wipro Share Price Target 2026, 2027, 2030, 2040, 2050 - shareprice-target.com": "company-specific"
+    "Wipro Share Price Target 2026, 2027, 2030, 2040, 2050 - shareprice-target.com": "company-specific",
+    "New Year Stock Market Holiday for 2026: Are NSE, BSE closed today on 1 January; Check here - The Economic Times": "company-specific",
+    "Mcap of 7 most valued firms erodes by \u20b92 trn, TCS biggest laggard - Business Standard": "macro",
+    "ICICI Bank Ltd (ICICIBANK) Share Price - Business Today": "company-specific",
+    "Stock Market Today: Why NSE, BSE Shrugs Off Trump\u2019s 25% Tariff Bullying? - Republic World": "global"
   },
   "stats": {
-    "cache_hits": 929,
-    "llm_calls": 20,
-    "screener_hits": 470,
+    "cache_hits": 1009,
+    "llm_calls": 22,
+    "screener_hits": 516,
     "nse_hits": 0
   },
   "earnings_dates": {
