@@ -1,1 +1,198 @@
-[]
+[
+  {
+    "stock": "RELIANCE",
+    "analysis_date": "2026-04-26",
+    "direction": "NEUTRAL",
+    "probability": null,
+    "jump_detected": false,
+    "key_trigger": null,
+    "checkpoints": {
+      "day_5": {
+        "date": "2026-05-01",
+        "price": null,
+        "outcome": null
+      },
+      "day_10": {
+        "date": "2026-05-06",
+        "price": null,
+        "outcome": null
+      },
+      "day_28": {
+        "date": "2026-05-24",
+        "price": null,
+        "outcome": null
+      }
+    },
+    "notify": false,
+    "confidence": "LOW",
+    "model_version": "2.0"
+  },
+  {
+    "stock": "TCS",
+    "analysis_date": "2026-04-26",
+    "direction": "NEUTRAL",
+    "probability": null,
+    "jump_detected": false,
+    "key_trigger": null,
+    "checkpoints": {
+      "day_5": {
+        "date": "2026-05-01",
+        "price": null,
+        "outcome": null
+      },
+      "day_10": {
+        "date": "2026-05-06",
+        "price": null,
+        "outcome": null
+      },
+      "day_28": {
+        "date": "2026-05-24",
+        "price": null,
+        "outcome": null
+      }
+    },
+    "notify": false,
+    "confidence": "LOW",
+    "model_version": "2.0"
+  },
+  {
+    "stock": "HDFCBANK",
+    "analysis_date": "2026-04-26",
+    "direction": "NEUTRAL",
+    "probability": null,
+    "jump_detected": false,
+    "key_trigger": null,
+    "checkpoints": {
+      "day_5": {
+        "date": "2026-05-01",
+        "price": null,
+        "outcome": null
+      },
+      "day_10": {
+        "date": "2026-05-06",
+        "price": null,
+        "outcome": null
+      },
+      "day_28": {
+        "date": "2026-05-24",
+        "price": null,
+        "outcome": null
+      }
+    },
+    "notify": false,
+    "confidence": "LOW",
+    "model_version": "2.0"
+  },
+  {
+    "stock": "INFY",
+    "analysis_date": "2026-04-26",
+    "direction": "NEUTRAL",
+    "probability": null,
+    "jump_detected": false,
+    "key_trigger": null,
+    "checkpoints": {
+      "day_5": {
+        "date": "2026-05-01",
+        "price": null,
+        "outcome": null
+      },
+      "day_10": {
+        "date": "2026-05-06",
+        "price": null,
+        "outcome": null
+      },
+      "day_28": {
+        "date": "2026-05-24",
+        "price": null,
+        "outcome": null
+      }
+    },
+    "notify": false,
+    "confidence": "LOW",
+    "model_version": "2.0"
+  },
+  {
+    "stock": "ICICIBANK",
+    "analysis_date": "2026-04-26",
+    "direction": "NEUTRAL",
+    "probability": null,
+    "jump_detected": false,
+    "key_trigger": null,
+    "checkpoints": {
+      "day_5": {
+        "date": "2026-05-01",
+        "price": null,
+        "outcome": null
+      },
+      "day_10": {
+        "date": "2026-05-06",
+        "price": null,
+        "outcome": null
+      },
+      "day_28": {
+        "date": "2026-05-24",
+        "price": null,
+        "outcome": null
+      }
+    },
+    "notify": false,
+    "confidence": "LOW",
+    "model_version": "2.0"
+  },
+  {
+    "stock": "SUNPHARMA",
+    "analysis_date": "2026-04-26",
+    "direction": "NEUTRAL",
+    "probability": null,
+    "jump_detected": false,
+    "key_trigger": null,
+    "checkpoints": {
+      "day_5": {
+        "date": "2026-05-01",
+        "price": null,
+        "outcome": null
+      },
+      "day_10": {
+        "date": "2026-05-06",
+        "price": null,
+        "outcome": null
+      },
+      "day_28": {
+        "date": "2026-05-24",
+        "price": null,
+        "outcome": null
+      }
+    },
+    "notify": false,
+    "confidence": "LOW",
+    "model_version": "2.0"
+  },
+  {
+    "stock": "WIPRO",
+    "analysis_date": "2026-04-26",
+    "direction": "NEUTRAL",
+    "probability": null,
+    "jump_detected": false,
+    "key_trigger": null,
+    "checkpoints": {
+      "day_5": {
+        "date": "2026-05-01",
+        "price": null,
+        "outcome": null
+      },
+      "day_10": {
+        "date": "2026-05-06",
+        "price": null,
+        "outcome": null
+      },
+      "day_28": {
+        "date": "2026-05-24",
+        "price": null,
+        "outcome": null
+      }
+    },
+    "notify": false,
+    "confidence": "LOW",
+    "model_version": "2.0"
+  }
+]

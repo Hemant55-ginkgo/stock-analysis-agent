@@ -76,7 +76,10 @@
       "export ban",
       "windfall",
       "subsidy",
-      "divestment"
+      "divestment",
+      "indian",
+      "institute",
+      "corporate"
     ],
     "global": [
       "crude",
@@ -141,7 +144,13 @@
       "buyback",
       "gainers",
       "losers",
-      "april"
+      "april",
+      "gains",
+      "extends",
+      "rebound",
+      "operations",
+      "transformation",
+      "frieslandcampina"
     ]
   },
   "classified": {
@@ -267,12 +276,21 @@
     "Wipro (Nse) | Stock Share Price Live - MarketSmith India": "company-specific",
     "Stock market fall: TCS, Jio Financial, Asian Paints hit 52-week low - Upstox": "company-specific",
     "TCS Share Price Falls 3.5% As US Imposes 27% Tariff On Indian Imports - Samco": "company-specific",
-    "Hero MotoCorp Share Price Today - Hero MotoCorp Stock Price Live NSE/BSE - ICICI Direct": "company-specific"
+    "Hero MotoCorp Share Price Today - Hero MotoCorp Stock Price Live NSE/BSE - ICICI Direct": "company-specific",
+    "Indian Institute of Corporate Affairs hosts inaugural \u2018The Great Indian Board Reboot: Roadshow 2024\u2019 in Mumbai - Press Information Bureau": "policy",
+    "Happy birthday, Nifty50: Index turns 29; here's its journey through history - Business Standard": "company-specific",
+    "SENSEX, NIFTY50 rangebound; Reliance Industries, Adani Total Gas, ITC among buzzing shares - Upstox": "company-specific",
+    "TCS Share Price Slides , Hits 52\u2011Week Low as IT Stocks Face Heavy Selloff - HDFC Sky": "company-specific",
+    "HDFC Bank shares fall 2% after Q3 business update; Union Bank jumps 4% to fresh 52-week high - Moneycontrol.com": "company-specific",
+    "HDFC Bank gains 3%, extends rebound for second day; analyst says buy on dip - Business Standard": "company-specific",
+    "bp and Infosys to develop \u2018Energy as a Service\u2019 solution for campuses and cities | BP India news | bp India - Home - BP": "company-specific",
+    "IT Operations Transformation for FrieslandCampina - Wipro": "company-specific",
+    "Wipro Share Price Target 2026, 2027, 2030, 2040, 2050 - shareprice-target.com": "company-specific"
   },
   "stats": {
-    "cache_hits": 853,
-    "llm_calls": 17,
-    "screener_hits": 424,
+    "cache_hits": 929,
+    "llm_calls": 20,
+    "screener_hits": 470,
     "nse_hits": 0
   },
   "earnings_dates": {
