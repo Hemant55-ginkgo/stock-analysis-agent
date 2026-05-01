@@ -9,8 +9,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1436.0,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -25,7 +25,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "TCS",
@@ -37,8 +38,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 2474.8,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -53,7 +54,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "HDFCBANK",
@@ -65,8 +67,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 774.75,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -81,7 +83,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "INFY",
@@ -93,8 +96,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1182.6,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -109,7 +112,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "ICICIBANK",
@@ -121,8 +125,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1265.7,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -137,7 +141,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "SUNPHARMA",
@@ -149,8 +154,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1810.0,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -165,7 +170,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "WIPRO",
@@ -177,8 +183,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 201.2,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -193,7 +199,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "RELIANCE",
@@ -205,8 +212,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1436.0,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -221,7 +228,8 @@
     },
     "notify": false,
     "confidence": "MEDIUM",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "TCS",
@@ -233,8 +241,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 2474.8,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -249,7 +257,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "HDFCBANK",
@@ -261,8 +270,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 774.75,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -277,7 +286,8 @@
     },
     "notify": false,
     "confidence": "MEDIUM",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "INFY",
@@ -289,8 +299,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1182.6,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -305,7 +315,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "ICICIBANK",
@@ -317,8 +328,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1265.7,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -333,7 +344,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "SUNPHARMA",
@@ -345,8 +357,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 1810.0,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -361,7 +373,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "WIPRO",
@@ -373,8 +386,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-05-01",
-        "price": null,
-        "outcome": null
+        "price": 201.2,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-05-06",
@@ -389,6 +402,7 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   }
 ]
