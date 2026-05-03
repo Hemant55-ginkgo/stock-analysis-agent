@@ -82,7 +82,10 @@
       "divestment",
       "indian",
       "institute",
-      "corporate"
+      "corporate",
+      "restrict",
+      "access",
+      "websites"
     ],
     "global": [
       "crude",
@@ -156,7 +159,13 @@
       "rebound",
       "operations",
       "transformation",
-      "frieslandcampina"
+      "frieslandcampina",
+      "signs",
+      "agreement",
+      "replace",
+      "gaming",
+      "stocks",
+      "india"
     ]
   },
   "classified": {
@@ -295,12 +304,28 @@
     "New Year Stock Market Holiday for 2026: Are NSE, BSE closed today on 1 January; Check here - The Economic Times": "company-specific",
     "Mcap of 7 most valued firms erodes by \u20b92 trn, TCS biggest laggard - Business Standard": "macro",
     "ICICI Bank Ltd (ICICIBANK) Share Price - Business Today": "company-specific",
-    "Stock Market Today: Why NSE, BSE Shrugs Off Trump\u2019s 25% Tariff Bullying? - Republic World": "global"
+    "Stock Market Today: Why NSE, BSE Shrugs Off Trump\u2019s 25% Tariff Bullying? - Republic World": "global",
+    "Oil India Share Price Today 30 Apr 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "BSE, NSE restrict access to websites for overseas users: Reports - The Economic Times": "policy",
+    "ASX signs agreement with TCS to replace its cash equities clearing and settlement platform - Tata Consultancy Services": "company-specific",
+    "Best Gaming Stocks in India - Groww": "company-specific",
+    "Infosys Shares Rise 3% Ahead of Nov 14 Buyback Record Date - HDFC Sky": "company-specific",
+    "$56 billion AI scare tests resilience of TCS, Infosys and other Indian IT stocks - The Economic Times": "company-specific",
+    "Infosys Q4 preview: PAT may slip 2% QoQ; Iran war, GenAI impact eyed - Business Standard": "earnings",
+    "Infosys Submits Application for Promoter Group Reclassification to Stock Exchanges - scanx.trade": "company-specific",
+    "ICICI Bank Share Price Today 30 Apr 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "Tata Motors Share Price Today - Tata Motors Stock Price Live NSE/BSE - ICICI Direct": "company-specific",
+    "ICICI Bank Executes \u20b977.91 Crore Block Trade on NSE - scanx.trade": "company-specific",
+    "Sun Pharma Inds. Share Price Today Live NSE/BSE - Stock Price, News and Chart Updates 1 May 2026 - ET Now": "company-specific",
+    "Why Sun Pharma is up today? - Reasons explained - India Infoline": "company-specific",
+    "Wipro Ltd Corporate Actions - India Infoline": "company-specific",
+    "Wipro shares trade ex-bonus today; has your share price halved? - Moneycontrol.com": "company-specific",
+    "Wipro shares jump 3% as board eyes buyback after three years on April 16 - The Economic Times": "company-specific"
   },
   "stats": {
-    "cache_hits": 1009,
-    "llm_calls": 22,
-    "screener_hits": 516,
+    "cache_hits": 1087,
+    "llm_calls": 25,
+    "screener_hits": 562,
     "nse_hits": 0
   },
   "earnings_dates": {
