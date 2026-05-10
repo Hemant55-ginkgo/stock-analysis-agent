@@ -20,7 +20,10 @@
       "net profit",
       "upcoming",
       "wipro",
-      "bank"
+      "bank",
+      "think",
+      "healthy",
+      "earnings"
     ],
     "fii": [
       "fii",
@@ -165,7 +168,13 @@
       "replace",
       "gaming",
       "stocks",
-      "india"
+      "india",
+      "macquarie",
+      "reaffirms",
+      "business",
+      "castrol",
+      "gland",
+      "pharma"
     ]
   },
   "classified": {
@@ -320,12 +329,35 @@
     "Why Sun Pharma is up today? - Reasons explained - India Infoline": "company-specific",
     "Wipro Ltd Corporate Actions - India Infoline": "company-specific",
     "Wipro shares trade ex-bonus today; has your share price halved? - Moneycontrol.com": "company-specific",
-    "Wipro shares jump 3% as board eyes buyback after three years on April 16 - The Economic Times": "company-specific"
+    "Wipro shares jump 3% as board eyes buyback after three years on April 16 - The Economic Times": "company-specific",
+    "Oil India Share Price Today 8 May 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "Best Green Hydrogen Stocks in India 2026 - Groww": "company-specific",
+    "Macquarie reaffirms 'outperform' rank to TCS; stock hits 52-week high - Business Standard": "company-specific",
+    "Top 10 firms lose Rs 2.9 lakh crore in market capitalization, TCS and Reliance bear the brunt - The Times of India": "company-specific",
+    "IT stocks fall for 3rd day as AI jitters deepen; Coforge, TCS decline up to 4% - Moneycontrol.com": "company-specific",
+    "TCS Q4 results: Deal wins, AI updates, FY27 outlook in focus; what you need to know ahead of earnings - Upstox": "earnings",
+    "HDFC Bank Ltd. Share Price Today - HDFC Bank Ltd. Stock Price Live NSE/BSE - CNBC TV18": "company-specific",
+    "HDFC Bank shares surge 6% as RBI Guv says no governance or conduct-related issues found - Upstox": "company-specific",
+    "INFY Share Price Today - Infosys Stock Analysis - Equitypandit": "company-specific",
+    "The National Stock Exchange of India \u2013 (NSE) - AskTraders": "company-specific",
+    "We Think Infosys' (NSE:INFY) Healthy Earnings Might Be Conservative - simplywall.st": "earnings",
+    "IT stocks to rally on Wednesday? Infosys, Wipro ADRs surge up to 5%. Here's why - The Economic Times": "company-specific",
+    "Infosys share price today: Stock falls around 4% after Q4 numbers; what\u2019s the outlook? Brokerages share r - The Times of India": "company-specific",
+    "ICICI BANK LTD. Share Price Today - Live ICICIBANK Stock Price for NSE/BSE - Upstox": "company-specific",
+    "ICICI Bank Share Price Today 8 May 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "Stock Market News - Share Market News, Sensex Today, BSE/NSE India, Nifty 50 Updates | CNBCTV18 - LinkedIn": "company-specific",
+    "Sun Pharma's Stock Falls 4% After Its March Quarter Results - Equitymaster": "company-specific",
+    "Sun Pharma Inds. Share Price Today Live NSE/BSE - Stock Price, News and Chart Updates 9 May 2026 - ET Now": "company-specific",
+    "Castrol India, Gland Pharma not eligible to enter F&O, NSE modifies previous order - Moneycontrol.com": "company-specific",
+    "Sun Pharmaceutical Industries First Quarter 2026 Earnings: Revenues Beat Expectations, EPS Lags - simplywall.st": "earnings",
+    "Sun Pharmaceutical Industries Ltd eases for fifth straight session - Business Standard": "company-specific",
+    "Organon soars 15% after India\u2019s Sun Pharma strikes $11.8bn takeover deal - Investing.com": "company-specific",
+    "Wipro Ltd Futures Share Price & Chart Today | IIFL Capital - India Infoline": "company-specific"
   },
   "stats": {
-    "cache_hits": 1087,
-    "llm_calls": 25,
-    "screener_hits": 562,
+    "cache_hits": 1165,
+    "llm_calls": 28,
+    "screener_hits": 608,
     "nse_hits": 0
   },
   "earnings_dates": {
