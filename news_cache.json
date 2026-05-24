@@ -26,7 +26,13 @@
       "earnings",
       "stock",
       "mindsprint",
-      "acquisition"
+      "acquisition",
+      "infosys",
+      "recent",
+      "outlook",
+      "pharma",
+      "india",
+      "first"
     ],
     "fii": [
       "fii",
@@ -91,7 +97,10 @@
       "corporate",
       "restrict",
       "access",
-      "websites"
+      "websites",
+      "stock",
+      "market",
+      "holiday"
     ],
     "global": [
       "crude",
@@ -183,7 +192,19 @@
       "pharma",
       "downgrade",
       "shares",
-      "guidance"
+      "guidance",
+      "consultancy",
+      "services",
+      "deals",
+      "records",
+      "major",
+      "block",
+      "glitch",
+      "causes",
+      "quote",
+      "comparison",
+      "competitive",
+      "analysis"
     ]
   },
   "classified": {
@@ -386,12 +407,30 @@
     "Market Wrap, April 9: Indices extend losses amid weak global cues, SENSEX falls 380 pts, NIFTY50 slips 0.50%; Wipro biggest index loser - Upstox": "company-specific",
     "Brokerages downgrade Wipro shares amid weak guidance, tariff-related caution; stock cracks 6% - Moneycontrol.com": "company-specific",
     "Stocks to Watch Today: Wipro, Axis Bank, LTIMindtree, Indian Hotels, Lupin, Tracxn Tech, Capital SFB, Veranda Learning, IndoStar in focus on 18 July - Moneycontrol.com": "company-specific",
-    "Wipro Ltd stock (INE075A01022): Q4 FY26 results and Mindsprint acquisition in focus - AD HOC NEWS": "earnings"
+    "Wipro Ltd stock (INE075A01022): Q4 FY26 results and Mindsprint acquisition in focus - AD HOC NEWS": "earnings",
+    "NSE targets filing IPO documents by end of March: Report - The Economic Times": "company-specific",
+    "Tata Consultancy Services Share Price Today 22 May 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "TCS \u0936\u0947\u092f\u0930 \u092a\u094d\u0930\u093e\u0907\u0938 \u091f\u0941\u0921\u0947 (Tata Consultancy Services Share Price Today), TCS, Tata Consultancy Services Stock Price Live NSE, BSE Today - Hindustan Hindi News": "company-specific",
+    "09 Apr 2026 TCS.NS Tata Consultancy Services NSE: AI deals to guide outlook - Meyka": "company-specific",
+    "Be Sure To Check Out Tata Consultancy Services Limited (NSE:TCS) Before It Goes Ex-Dividend - simplywall.st": "company-specific",
+    "LIC gets RBI nod to increase stake in HDFC Bank to 9.99%; lender's shares in green - Zee Business": "company-specific",
+    "HDFC Bank Ltd Stock Price: HDFC Bank Share Price Today - India Infoline": "company-specific",
+    "HDFC Bank Records Major Block Trade of \u20b91,112 Crores on NSE - scanx.trade": "company-specific",
+    "Loan losses (actual) of HDFC Bank Limited \u2013 NSE:HDFCBANK - TradingView": "company-specific",
+    "Infosys shares tumble 6% after Q4 results. What Morgan Stanley, other top brokerages are saying - The Economic Times": "company-specific",
+    "Infosys Ltd stock (INE009A01021): Recent earnings and outlook for US investors - AD HOC NEWS": "earnings",
+    "ICICI Bank Share Price Today 22 May 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "ICICI Bank Ltd. Share Price Today - ICICI Bank Ltd. Stock Price Live NSE/BSE - CNBC TV18": "company-specific",
+    "NSE glitch causes quote confusion - The Economic Times": "company-specific",
+    "Q3 Results Today: Sun Pharma, GAIL India, IDFC First Bank, Bharat Dynamics, Delhivery, CDSL, others to post earnings on Jan 31; check list - Upstox": "earnings",
+    "Stock market holiday today: BSE, NSE to remain shut on account of Good Friday - TradingView": "policy",
+    "Wipro Ltd Peer Comparison - Competitive Analysis - India Infoline": "company-specific",
+    "BSE set for Nifty50 hot seat, likely to replace Wipro in September rejig - The Economic Times": "company-specific"
   },
   "stats": {
-    "cache_hits": 1264,
-    "llm_calls": 31,
-    "screener_hits": 654,
+    "cache_hits": 1346,
+    "llm_calls": 38,
+    "screener_hits": 700,
     "nse_hits": 0
   },
   "earnings_dates": {
