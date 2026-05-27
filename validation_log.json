@@ -826,8 +826,8 @@
       },
       "day_10": {
         "date": "2026-05-27",
-        "price": null,
-        "outcome": null
+        "price": 1353.5,
+        "outcome": "UNKNOWN"
       },
       "day_28": {
         "date": "2026-06-14",
@@ -855,8 +855,8 @@
       },
       "day_10": {
         "date": "2026-05-27",
-        "price": null,
-        "outcome": null
+        "price": 2270.8,
+        "outcome": "UNKNOWN"
       },
       "day_28": {
         "date": "2026-06-14",
@@ -884,8 +884,8 @@
       },
       "day_10": {
         "date": "2026-05-27",
-        "price": null,
-        "outcome": null
+        "price": 759.55,
+        "outcome": "UNKNOWN"
       },
       "day_28": {
         "date": "2026-06-14",
@@ -913,8 +913,8 @@
       },
       "day_10": {
         "date": "2026-05-27",
-        "price": null,
-        "outcome": null
+        "price": 1159.2,
+        "outcome": "UNKNOWN"
       },
       "day_28": {
         "date": "2026-06-14",
@@ -942,8 +942,8 @@
       },
       "day_10": {
         "date": "2026-05-27",
-        "price": null,
-        "outcome": null
+        "price": 1278.5,
+        "outcome": "UNKNOWN"
       },
       "day_28": {
         "date": "2026-06-14",
@@ -971,8 +971,8 @@
       },
       "day_10": {
         "date": "2026-05-27",
-        "price": null,
-        "outcome": null
+        "price": 1841.8,
+        "outcome": "UNKNOWN"
       },
       "day_28": {
         "date": "2026-06-14",
@@ -1000,8 +1000,8 @@
       },
       "day_10": {
         "date": "2026-05-27",
-        "price": null,
-        "outcome": null
+        "price": 201.43,
+        "outcome": "UNKNOWN"
       },
       "day_28": {
         "date": "2026-06-14",
