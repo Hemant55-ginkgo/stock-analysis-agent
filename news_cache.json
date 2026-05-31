@@ -425,12 +425,28 @@
     "Q3 Results Today: Sun Pharma, GAIL India, IDFC First Bank, Bharat Dynamics, Delhivery, CDSL, others to post earnings on Jan 31; check list - Upstox": "earnings",
     "Stock market holiday today: BSE, NSE to remain shut on account of Good Friday - TradingView": "policy",
     "Wipro Ltd Peer Comparison - Competitive Analysis - India Infoline": "company-specific",
-    "BSE set for Nifty50 hot seat, likely to replace Wipro in September rejig - The Economic Times": "company-specific"
+    "BSE set for Nifty50 hot seat, likely to replace Wipro in September rejig - The Economic Times": "company-specific",
+    "NSE, India Bullion and Jewelers Association to soon launch bullion spot exchange - The Economic Times": "UNKNOWN",
+    "How Many Stocks Are Listed in NSE? What Should You Know About Them? - INDmoney": "company-specific",
+    "Indian Institute of Corporate Affairs hosts inaugural \u2018The Great Indian Board Reboot: Roadshow 2024\u2019 in Mumbai - PIB": "policy",
+    "RIL arm acquires 21% stake in US-based Wavetech Helium for $12 million - Business Standard": "UNKNOWN",
+    "RIL adds \u20b9 1 trillion to investor wealth as stock rallies 6% post Q4 show - Business Standard": "UNKNOWN",
+    "Tata Consultancy Services Share Price Today 29 May 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "Do We Have Crypto Stocks in the Indian Stock Market? - GETMONEYRICH": "UNKNOWN",
+    "TCS.NS Tata Consultancy Services (NSE) +2.55% intraday 06 Apr 2026: AI services lift outlook - Meyka": "company-specific",
+    "HDFC Bank Ltd Corporate Actions - India Infoline": "UNKNOWN",
+    "Stock markets fall for second day as selling in Reliance Industries, HDFC Bank dents sentiment - The Hindu": "company-specific",
+    "HDFC Bank shares surge 3% as report says review finds no major governance concerns after Chairman exit - Moneycontrol.com": "company-specific",
+    "Infosys, LTIMindtree, HCL Tech stocks down 1-2% today; Nifty IT among top sector losers - Moneycontrol.com": "company-specific",
+    "BSE and NSE Grant No-Objection for Reclassification of Shibulal Family Members from Promoter Group to Public Category at Infosys - scanx.trade": "UNKNOWN",
+    "ICICI Bank Share Price Today 29 May 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "Sun Pharma Publishes Postal Ballot Newspaper Ads for Director Appointment - scanx.trade": "global",
+    "Wipro shares fall 6 per cent on lower quarterly profit - The New Indian Express": "UNKNOWN"
   },
   "stats": {
-    "cache_hits": 1346,
-    "llm_calls": 38,
-    "screener_hits": 700,
+    "cache_hits": 1435,
+    "llm_calls": 45,
+    "screener_hits": 746,
     "nse_hits": 0
   },
   "earnings_dates": {
