@@ -1227,8 +1227,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-06-05",
-        "price": null,
-        "outcome": null
+        "price": 1292.5,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-06-10",
@@ -1243,7 +1243,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "TCS",
@@ -1255,8 +1256,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-06-05",
-        "price": null,
-        "outcome": null
+        "price": 2201.7,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-06-10",
@@ -1271,7 +1272,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "HDFCBANK",
@@ -1283,8 +1285,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-06-05",
-        "price": null,
-        "outcome": null
+        "price": 749.35,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-06-10",
@@ -1299,7 +1301,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "INFY",
@@ -1311,8 +1314,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-06-05",
-        "price": null,
-        "outcome": null
+        "price": 1200.3,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-06-10",
@@ -1327,7 +1330,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "ICICIBANK",
@@ -1339,8 +1343,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-06-05",
-        "price": null,
-        "outcome": null
+        "price": 1261.5,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-06-10",
@@ -1355,7 +1359,8 @@
     },
     "notify": false,
     "confidence": "MEDIUM",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "SUNPHARMA",
@@ -1367,8 +1372,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-06-05",
-        "price": null,
-        "outcome": null
+        "price": 1794.6,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-06-10",
@@ -1383,7 +1388,8 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   },
   {
     "stock": "WIPRO",
@@ -1395,8 +1401,8 @@
     "checkpoints": {
       "day_5": {
         "date": "2026-06-05",
-        "price": null,
-        "outcome": null
+        "price": 195.5,
+        "outcome": "UNKNOWN"
       },
       "day_10": {
         "date": "2026-06-10",
@@ -1411,6 +1417,7 @@
     },
     "notify": false,
     "confidence": "LOW",
-    "model_version": "2.0"
+    "model_version": "2.0",
+    "entry_price": null
   }
 ]
