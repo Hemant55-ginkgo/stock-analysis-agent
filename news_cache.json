@@ -495,12 +495,27 @@
     "Stocks in news: Tata Motors, JSW Energy, Asian Paints, Tata Power and more - Business Today": "company-specific",
     "Trading Radar For July 18: RIL, Wipro, Axis Bank, Vedanta, Jio Financial And Lupin Are On The Watchlist By Stocktwits - Investing.com India": "UNKNOWN",
     "BSE poised to replace Wipro in Nifty 50 September reshuffle - MSN": "company-specific",
-    "Stocks in Focus June 17: GIC Re OFS, Wipro AI CoE, Nykaa-OpenAI Deal - NiftyTrader": "company-specific"
+    "Stocks in Focus June 17: GIC Re OFS, Wipro AI CoE, Nykaa-OpenAI Deal - NiftyTrader": "company-specific",
+    "State Bank of India Share Price Today 25 Jun 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "Why Reliance Industries, BPCL, HPCL, IOC shares are falling today - Business Today": "company-specific",
+    "Reliance AGM Puts Jio IPO in Focus After India NSE\u2019s Filing - Bloomberg": "company-specific",
+    "Infosys vs Wipro vs TCS: Which stock can beat the slowdown blues? - Business Today": "company-specific",
+    "Tata Consultancy Services Ltd stock (INE467B01029): recent results and share move in focus - Ad-hoc-news.de": "UNKNOWN",
+    "Tata Consultancy Services Ltd stock (INE001A01036): India\u2019s IT giant eyes growth amid global deman - Ad-hoc-news.de": "company-specific",
+    "IT shares crash after three-day rally, TCS nosedives 8 per cent - The New Indian Express": "company-specific",
+    "TCS Share Price Today - Tata Consultancy Services on NSE/BSE - scanx.trade": "company-specific",
+    "HDFC Bank shares in focus as stock turns ex-dividend; Keki Mistry\u2019s gets extension - BusinessLine": "company-specific",
+    "Indian shares extend rally on US trade deal hopes, earnings revival bets - Reuters": "company-specific",
+    "Sensex opens 300 points higher, Nifty above 23,700; Infosys up 4% - India Today": "company-specific",
+    "Sensex sheds 500 points, Nifty slips below 23,400 despite IT rally - India Today": "company-specific",
+    "ICICI Bank Share Price Today 25 Jun 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
+    "HDFC Bank vs ICICI Bank: Tech analyst decodes strategy, key levels for stks - Business Standard": "company-specific",
+    "Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 82 stocks that hit 52-week low on NSE - Upstox": "company-specific"
   },
   "stats": {
-    "cache_hits": 1710,
-    "llm_calls": 57,
-    "screener_hits": 884,
+    "cache_hits": 1800,
+    "llm_calls": 58,
+    "screener_hits": 930,
     "nse_hits": 0
   },
   "earnings_dates": {
