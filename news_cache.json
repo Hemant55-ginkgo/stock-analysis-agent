@@ -510,12 +510,25 @@
     "Sensex sheds 500 points, Nifty slips below 23,400 despite IT rally - India Today": "company-specific",
     "ICICI Bank Share Price Today 25 Jun 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Mint": "company-specific",
     "HDFC Bank vs ICICI Bank: Tech analyst decodes strategy, key levels for stks - Business Standard": "company-specific",
-    "Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 82 stocks that hit 52-week low on NSE - Upstox": "company-specific"
+    "Stock market crash: Reliance Industries, TCS, RVNL, Wipro among 82 stocks that hit 52-week low on NSE - Upstox": "company-specific",
+    "Oil India Share Price Today 3 Jul 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
+    "Market gears up for NSE and Jio\u2019s mega IPOs, investor interest to remain strong - The New Indian Express": "UNKNOWN",
+    "NSE, India\u2019s financial heartbeat, files for jumbo public listing; sparks global interest - Business Today": "company-specific",
+    "Dividend IT stocks amount: TCS vs Infosys vs HCL vs Tech Mahindra: Who offers highest? - Business Today": "company-specific",
+    "How IPO-bound NSE's unlisted shares are faring post Q4 results, 3500% dividend - Business Today": "company-specific",
+    "TCS to Announce Q1 FY27 Financial Results on July 9, 2026 - scanx.trade": "earnings",
+    "Infosys, TCS gain up to 4%, Nifty IT jumps over 2.6% as strong AI demand boosts Snowflake earnings,... - Moneycontrol.com": "company-specific",
+    "Nifty Gainers & Losers: Infosys, Coal India, Hindalco Among Top Drags After Last-Hour Selloff - NDTV Profit": "company-specific",
+    "IT stocks to buy: Infosys top pick; target prices amid weak Q1 expectations - Business Today": "company-specific",
+    "ICICI Bank Share Price Today 3 Jul 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
+    "Aurobindo Pharma, Biocon, Glenmark shares fall over 5%; here is why pharma stocks are falling on Thursday - Upstox": "company-specific",
+    "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - Upstox": "UNKNOWN",
+    "Wipro Shares Drop 5% on Buyback Record Date - Equitypandit": "company-specific"
   },
   "stats": {
-    "cache_hits": 1800,
-    "llm_calls": 58,
-    "screener_hits": 930,
+    "cache_hits": 1899,
+    "llm_calls": 60,
+    "screener_hits": 976,
     "nse_hits": 0
   },
   "earnings_dates": {
