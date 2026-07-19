@@ -536,12 +536,24 @@
     "ICICI Bank Share Price Today 10 Jul 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
     "Mcap of 8 most valued firms surges by \u20b91.90 trn, ICICI Bank shines | Markets News - Business Standard": "company-specific",
     "Wipro to issue bonus shares for 14th time in its history; here's how it created wealth for its shareholders through bonus issues - Upstox": "company-specific",
-    "Wipro shares gain 5% after ADRs surge 20% overnight; Here's what it told the exchanges - CNBC TV18": "company-specific"
+    "Wipro shares gain 5% after ADRs surge 20% overnight; Here's what it told the exchanges - CNBC TV18": "company-specific",
+    "Will SpaceX's $75 billion IPO set the ball rolling for Reliance Jio and NSE listings in India? - The Economic Times": "company-specific",
+    "India stocks lower at close of trade; Nifty 50 down 1.16% - Investing.com": "company-specific",
+    "Mcap of 5 of top-10 most valued firms jumps \u20b91.54 trn; TCS biggest winner - Business Standard": "macro",
+    "Bank Nifty jumps past 58,000 as Fed flags possible rate hike; SBI, HDFC Bank among top gainers - Moneycontrol.com": "company-specific",
+    "Infosys drops 6.11% as global tech selloff, AI fears hit IT stocks - HDFC Sky": "company-specific",
+    "Stocks to Watch Today: Infosys, IRFC, Honasa Consumer, Rashi Peripherals, City Union Bank, Delhivery, Clay... - Moneycontrol.com": "company-specific",
+    "Infosys Stock Leads 3 Founder Backed Indian Companies Worth Watching - simplywall.st": "UNKNOWN",
+    "Nifty IT falls nearly 3%; Infosys, TCS, Wipro among top losers as US rate fear, AI disruption weigh on... - Moneycontrol.com": "company-specific",
+    "ICICI Bank Share Price Today 17 Jul 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
+    "Monday Watchlist: Sun Pharma, HDFC Bank, ICICI, and 7 stocks to watch \u2013 VIX hits 2-year high - financialexpress.com": "company-specific",
+    "Wipro surges 5%, hits 3-year high; stock soars 15% in 4 days on strong Q3 - Business Standard": "UNKNOWN",
+    "TCS, Wipro Shares Hit 52-Week Low as AI Concerns and Global Tech Rout Weigh on IT Stocks - India Infoline": "company-specific"
   },
   "stats": {
-    "cache_hits": 2000,
-    "llm_calls": 61,
-    "screener_hits": 1022,
+    "cache_hits": 2095,
+    "llm_calls": 63,
+    "screener_hits": 1068,
     "nse_hits": 0
   },
   "earnings_dates": {
