@@ -548,12 +548,27 @@
     "ICICI Bank Share Price Today 17 Jul 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
     "Monday Watchlist: Sun Pharma, HDFC Bank, ICICI, and 7 stocks to watch \u2013 VIX hits 2-year high - financialexpress.com": "company-specific",
     "Wipro surges 5%, hits 3-year high; stock soars 15% in 4 days on strong Q3 - Business Standard": "UNKNOWN",
-    "TCS, Wipro Shares Hit 52-Week Low as AI Concerns and Global Tech Rout Weigh on IT Stocks - India Infoline": "company-specific"
+    "TCS, Wipro Shares Hit 52-Week Low as AI Concerns and Global Tech Rout Weigh on IT Stocks - India Infoline": "company-specific",
+    "$6 billion double dhamaka coming: Jio and NSE likely to file for India's biggest IPOs this week - The Economic Times": "company-specific",
+    "TCS, Infy, HCL Tech: How to trade IT stocks ahead of Q3 results? Key levels - Business Standard": "UNKNOWN",
+    "Tata Consultancy Services Ltd stock (INE001A01036): India\u2019s IT giant eyes growth amid global deman - AD HOC NEWS": "company-specific",
+    "Nifty June futures trade at premium - Business Standard": "company-specific",
+    "Tata Consultancy Services shares rise 2.35% in today's session - Moneycontrol.com": "company-specific",
+    "BofA sees opportunity in India's battered bank stocks, expects IT sector to underperform - Reuters": "UNKNOWN",
+    "HDFC Bank share price dips 25% in YTD. Should you buy after a strong financial update? - livemint.com": "company-specific",
+    "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history - Yahoo Finance UK": "company-specific",
+    "ICICI Bank Limited - ADR Share Price Today | ICICI Bank - ADR Live NSE/BSE - Value Research": "company-specific",
+    "ICICI Bank Share Price Today 24 Jul 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
+    "ABBOTT INDIA SHARE PRICE TODAY - ICICI Direct": "company-specific",
+    "Sun Pharma stock slips 4% after USFDA issues observations for Halol plant - Business Today": "company-specific",
+    "Can Wipro overtake HCL Tech to become India\u2019s third biggest IT firm again? - Moneycontrol.com": "UNKNOWN",
+    "\u200b\u200bBSE, Wipro among 10 stocks to be added in Nifty Next 50, Nifty in September rejig. Check list - The Economic Times": "company-specific",
+    "Wipro among 6 F&O stocks with a sharp rise in futures open interest - The Economic Times": "company-specific"
   },
   "stats": {
-    "cache_hits": 2095,
-    "llm_calls": 63,
-    "screener_hits": 1068,
+    "cache_hits": 2192,
+    "llm_calls": 66,
+    "screener_hits": 1114,
     "nse_hits": 0
   },
   "earnings_dates": {
