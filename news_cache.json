@@ -568,7 +568,7 @@
   "stats": {
     "cache_hits": 2192,
     "llm_calls": 66,
-    "screener_hits": 1114,
+    "screener_hits": 1160,
     "nse_hits": 0
   },
   "earnings_dates": {
