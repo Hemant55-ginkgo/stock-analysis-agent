@@ -600,12 +600,27 @@
     "Brokerages offer mixed views on Sun Pharma post steady Q3; buy, sell, hold? - business-standard.com": "company-specific",
     "Wipro Bonus Issue: Share trades range-bound; check record date, eligibility - business-standard.com": "company-specific",
     "Wipro surges 5%, hits 3-year high; stock soars 15% in 4 days on strong Q3 - business-standard.com": "UNKNOWN",
-    "Infosys, TechM, Wipro surged up to 5%; why Nifty IT rallied 3% on Friday? - business-standard.com": "company-specific"
+    "Infosys, TechM, Wipro surged up to 5%; why Nifty IT rallied 3% on Friday? - business-standard.com": "company-specific",
+    "Top Gainers Losers NSE - India Infoline": "company-specific",
+    "Tata Consultancy Services Share Price Target 2026: Post-Q4 Results Analysis - Univest": "company-specific",
+    "TCS Share Price at 52 Week Low: AI Disruption, Revenue Slowdown and Outlook 2026 - Univest": "UNKNOWN",
+    "TCS Analyst Review 2026: Tata Consultancy Services analyst at Rs 2,273 Buy or Hold? - Univest": "company-specific",
+    "India stocks lower at close of trade; Nifty 50 down 0.34% - Investing.com": "company-specific",
+    "Vodafone Idea, Ola Electric, YES Bank, HDFC Bank\u2014 These are among the most traded stocks on NSE today - livemint.com": "company-specific",
+    "HDFC Bank Stock Leads This India Watchlist as Volatility Tests Bank and Gas Shares - simplywall.st": "company-specific",
+    "Stocks To Buy or Sell Today, April 8, 2026: Infosys, GAIL and Arvind SmartSpaces Among Shares That May - LatestLY": "company-specific",
+    "Trade Spotlight: How should you trade Dixon Technologies, SBI, Adani Energy Solutions, Infosys, Bank of... - Moneycontrol.com": "UNKNOWN",
+    "Infosys, TCS shares jump about 3%, Nifty IT top sectoral gainer as AI spending fears ease; US Fed decision... - Moneycontrol.com": "company-specific",
+    "IT stocks fall: TCS, Infosys, Mphasis, others drag Nifty IT down 2%; check key factors behind today's drop - Upstox": "company-specific",
+    "ICICI Bank Share Price Today 21 Aug 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
+    "Sun Pharma Share Price Target 2026 \u2014 Analyst Forecast & Pharma Outlook - Univest": "company-specific",
+    "Reliance, Wipro weigh on Indian shares amid volatility spike ahead of budget - Reuters": "company-specific",
+    "Wipro Q3 Update: Net profit slips 7% y-o-y to \u20b93,119 Crore - India Infoline": "earnings"
   },
   "stats": {
-    "cache_hits": 2401,
-    "llm_calls": 74,
-    "screener_hits": 1252,
+    "cache_hits": 2516,
+    "llm_calls": 76,
+    "screener_hits": 1298,
     "nse_hits": 0
   },
   "earnings_dates": {
