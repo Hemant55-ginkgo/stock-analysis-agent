@@ -615,12 +615,20 @@
     "ICICI Bank Share Price Today 21 Aug 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - livemint.com": "company-specific",
     "Sun Pharma Share Price Target 2026 \u2014 Analyst Forecast & Pharma Outlook - Univest": "company-specific",
     "Reliance, Wipro weigh on Indian shares amid volatility spike ahead of budget - Reuters": "company-specific",
-    "Wipro Q3 Update: Net profit slips 7% y-o-y to \u20b93,119 Crore - India Infoline": "earnings"
+    "Wipro Q3 Update: Net profit slips 7% y-o-y to \u20b93,119 Crore - India Infoline": "earnings",
+    "HDFC, HDFC Bank shares dip around 3% after a strong rally on profit booking - The Indian Express": "company-specific",
+    "HDFC Bank stock plunges over 5% owing to investors concern on performance - The Hindu": "UNKNOWN",
+    "Infosys Prediction for Tomorrow 25 August 2026 - Univest": "UNKNOWN",
+    "Kotak turns cautious on Indian IT, downgrades Infosys, TCS and LTM; prefers challengers amid AI shift - Moneycontrol.com": "company-specific",
+    "ICICI Bank Share Price Today 28 Aug 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Livemint": "company-specific",
+    "Explained: Why Wipro shares fell 6% today - India Today": "company-specific",
+    "WIPRO Share Price Today - Wipro Ltd. Stock Price Live NSE/BSE - Univest": "company-specific",
+    "Wipro buyback update: \u20b915,000 crore share repurchase programme opens June 11; details here - Upstox": "company-specific"
   },
   "stats": {
-    "cache_hits": 2516,
-    "llm_calls": 76,
-    "screener_hits": 1298,
+    "cache_hits": 2613,
+    "llm_calls": 78,
+    "screener_hits": 1344,
     "nse_hits": 0
   },
   "earnings_dates": {
