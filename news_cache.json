@@ -623,12 +623,21 @@
     "ICICI Bank Share Price Today 28 Aug 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Livemint": "company-specific",
     "Explained: Why Wipro shares fell 6% today - India Today": "company-specific",
     "WIPRO Share Price Today - Wipro Ltd. Stock Price Live NSE/BSE - Univest": "company-specific",
-    "Wipro buyback update: \u20b915,000 crore share repurchase programme opens June 11; details here - Upstox": "company-specific"
+    "Wipro buyback update: \u20b915,000 crore share repurchase programme opens June 11; details here - Upstox": "company-specific",
+    "NSE Academy launches Industry Honour Certification courses for BCom students in partnership with TCS iON - NSE": "company-specific",
+    "TCS Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView": "company-specific",
+    "Tata Consultancy Services shares gain 2.06 percent to Rs 2,300.80 - Moneycontrol.com": "company-specific",
+    "Dividend, bonus issue, stock splits next week: HDFC Bank, Tata Motors PV, Tata Tech, Torrent Power, among others in focus - Upstox": "UNKNOWN",
+    "ICICI Bank Share Price Today 4 Sep 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Livemint": "company-specific",
+    "Sun Pharma signs Definitive Agreement to Acquire Organon - Business Wire": "company-specific",
+    "Wipro Launches GitHub Center of Excellence to Boost AI Innovation - Wipro": "UNKNOWN",
+    "Wipro down 9% as fall in Q3 profit, muted guidance keep brokerages cautious - Business Standard": "UNKNOWN",
+    "Wipro Allots 102,526 Equity Shares Under ESOP Plans on April 7, 2026 - scanx.trade": "company-specific"
   },
   "stats": {
-    "cache_hits": 2613,
-    "llm_calls": 78,
-    "screener_hits": 1344,
+    "cache_hits": 2715,
+    "llm_calls": 81,
+    "screener_hits": 1390,
     "nse_hits": 0
   },
   "earnings_dates": {
