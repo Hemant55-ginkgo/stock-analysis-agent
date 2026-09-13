@@ -632,12 +632,27 @@
     "Sun Pharma signs Definitive Agreement to Acquire Organon - Business Wire": "company-specific",
     "Wipro Launches GitHub Center of Excellence to Boost AI Innovation - Wipro": "UNKNOWN",
     "Wipro down 9% as fall in Q3 profit, muted guidance keep brokerages cautious - Business Standard": "UNKNOWN",
-    "Wipro Allots 102,526 Equity Shares Under ESOP Plans on April 7, 2026 - scanx.trade": "company-specific"
+    "Wipro Allots 102,526 Equity Shares Under ESOP Plans on April 7, 2026 - scanx.trade": "company-specific",
+    "IT shares crash after three-day rally, TCS nosedives 8 per cent - newindianexpress.com": "company-specific",
+    "Tata Consultancy Services Ltd extends losing streak - Business Standard": "company-specific",
+    "HDFC Bank, PNB, RIL, L&T among buzzing stocks as SENSEX falls over 600 pts, NIFTY below 24,150 - Upstox": "company-specific",
+    "Infosys share price today: IT giant jumps 5% after guidance hike; here's what investors should watch out - timesofindia.indiatimes.com": "company-specific",
+    "Infosys, TechM, LTM: IT stocks erase gains after rallying in early trade; fresh updates to know - Upstox": "company-specific",
+    "Infosys, HDFC Bank, TCS Lead Most Active Equities List - HDFC Sky": "UNKNOWN",
+    "IT shares surge up to 4% ahead of TCS Q1 results; Infosys, Tech Mahindra, LTM lead gains - Moneycontrol.com": "UNKNOWN",
+    "TCS, Infosys crash up to 55%: Why India's largest mutual fund scheme is still buying - The Economic Times": "UNKNOWN",
+    "Infosys (NSE:INFY) Valmet Partnership Keeps IT Services Growth in Focus - Kalkine India": "UNKNOWN",
+    "ICICI Bank Share Price Today 11 Sep 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Livemint": "company-specific",
+    "Stock market today: These are the top gainers and losers on NSE & BSE on January 22 - check list - timesofindia.indiatimes.com": "company-specific",
+    "Wipro's revenue likely to grow by 4.5% in FY26, says Fitch; stock down 2% amid sell-off in market - Upstox": "UNKNOWN",
+    "Wipro Q4 results: Check earnings preview and technical structure ahead of Q4FY25 results - Upstox": "earnings",
+    "Wipro Shares Jump 2.5% on Buyback, ServiceNow AI Deal - HDFC Sky": "company-specific",
+    "Wipro Share Price - Upstox": "company-specific"
   },
   "stats": {
-    "cache_hits": 2715,
-    "llm_calls": 81,
-    "screener_hits": 1390,
+    "cache_hits": 2814,
+    "llm_calls": 86,
+    "screener_hits": 1436,
     "nse_hits": 0
   },
   "earnings_dates": {
