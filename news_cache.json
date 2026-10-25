@@ -763,12 +763,29 @@
     "ICICI Bank Share Price Target 2026 \u2014 Analyst Forecast & Outlook - Univest": "company-specific",
     "Wipro Share Price Today: Wipro (NSE:WIPRO) Gains 2.28% - Kalkine India": "company-specific",
     "Stocks to Watch Today (Sep 10): Wipro, Hindustan Zinc, ICICI Bank, Coal India, REC and more - Zee Business": "company-specific",
-    "Wipro (NSE:WIPRO) Q2 FY27 Results and AI Business Strategy - Kalkine India": "earnings"
+    "Wipro (NSE:WIPRO) Q2 FY27 Results and AI Business Strategy - Kalkine India": "earnings",
+    "SBI overtakes TCS to become India's fourth most valuable listed firm - PSU Watch": "UNKNOWN",
+    "TCS Share Price August 31, 2026: Down 2.08% to \u20b93,157.80 - The Eastern Herald": "company-specific",
+    "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks - Yahoo Finance Australia": "company-specific",
+    "Tata Consultancy Services (TCS) Share Price Today & Chart - TechGraph": "company-specific",
+    "HDFC Bank share price trades in green after losing for three straight sessions - Livemint": "company-specific",
+    "We Think Infosys' (NSE:INFY) Healthy Earnings Might Be Conservative - Simply Wall Street": "earnings",
+    "Infosys Q4: IT major announces final dividend of \u20b925 per share; check record date, other details - Upstox": "company-specific",
+    "Infosys, Tech Mahindra, HCL Tech shares fall over 2%: IT index plunges 2.3%; here is why - Upstox": "company-specific",
+    "Infosys share price: IT major jumps 4% ahead of its Q2 results, dividend 2026 announcement today: What to expect? - Livemint": "company-specific",
+    "ICICI Bank Share Price Today 23 Oct 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Livemint": "company-specific",
+    "Stock market today: Top gainers and losers on NSE, BSE on February 1- check list - The Times of India": "company-specific",
+    "Wipro (NSE:WIPRO) Is Paying Out A Dividend Of \u20b96.00 - Simply Wall Street": "UNKNOWN",
+    "Top gainers and losers on January 16: Infosys, Tech Mahindra, Wipro shares surge over 2.5%; check full list - Upstox": "company-specific",
+    "Wipro shares rally 3% on buyback buzz; Street eyes potential size - Upstox": "company-specific",
+    "Stocks to Watch Today: IRB Infrastructure, Shakti Pumps, Dilip Buildcon, Indian Bank, Khadim India, ICICI... - Moneycontrol.com": "company-specific",
+    "Earnings Update: Wipro Limited (NSE:WIPRO) Just Reported Its Second-Quarter Results And Analysts Are Updating Their Forecasts - Simply Wall Street": "earnings",
+    "How Did Wipro Limited (NSE:WIPRO) Perform in the September Quarter? - Kalkine India": "UNKNOWN"
   },
   "stats": {
-    "cache_hits": 3364,
-    "llm_calls": 112,
-    "screener_hits": 1666,
+    "cache_hits": 3483,
+    "llm_calls": 115,
+    "screener_hits": 1712,
     "nse_hits": 0
   },
   "earnings_dates": {
