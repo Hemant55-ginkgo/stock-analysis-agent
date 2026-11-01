@@ -780,12 +780,19 @@
     "Wipro shares rally 3% on buyback buzz; Street eyes potential size - Upstox": "company-specific",
     "Stocks to Watch Today: IRB Infrastructure, Shakti Pumps, Dilip Buildcon, Indian Bank, Khadim India, ICICI... - Moneycontrol.com": "company-specific",
     "Earnings Update: Wipro Limited (NSE:WIPRO) Just Reported Its Second-Quarter Results And Analysts Are Updating Their Forecasts - Simply Wall Street": "earnings",
-    "How Did Wipro Limited (NSE:WIPRO) Perform in the September Quarter? - Kalkine India": "UNKNOWN"
+    "How Did Wipro Limited (NSE:WIPRO) Perform in the September Quarter? - Kalkine India": "UNKNOWN",
+    "Reliance Industries Share Price Today 30 Oct 2026: Live NSE/BSE Rates, Technical Analysis and Expert Forecasts - Livemint": "company-specific",
+    "Be Sure To Check Out Tata Consultancy Services Limited (NSE:TCS) Before It Goes Ex-Dividend - Simply Wall St": "company-specific",
+    "TCS shareholders approve financial statements and dividends at 31st AGM - scanx.trade": "company-specific",
+    "TCS share price falls 2% ahead of Q1 results 2026. Should you buy or sell? - Livemint": "UNKNOWN",
+    "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St": "company-specific",
+    "WIPRO LTD Option Chain - Live WIPRO LTD Option Chain Data, OI & Price - Upstox": "company-specific",
+    "Indian IT stocks in green as Alphabet sees worst day ever; Infosys, Wipro among top gainers - The Indian Express": "company-specific"
   },
   "stats": {
-    "cache_hits": 3483,
-    "llm_calls": 115,
-    "screener_hits": 1712,
+    "cache_hits": 3515,
+    "llm_calls": 116,
+    "screener_hits": 1758,
     "nse_hits": 0
   },
   "earnings_dates": {
