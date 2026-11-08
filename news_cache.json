@@ -787,12 +787,20 @@
     "TCS share price falls 2% ahead of Q1 results 2026. Should you buy or sell? - Livemint": "UNKNOWN",
     "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions - Simply Wall St": "company-specific",
     "WIPRO LTD Option Chain - Live WIPRO LTD Option Chain Data, OI & Price - Upstox": "company-specific",
-    "Indian IT stocks in green as Alphabet sees worst day ever; Infosys, Wipro among top gainers - The Indian Express": "company-specific"
+    "Indian IT stocks in green as Alphabet sees worst day ever; Infosys, Wipro among top gainers - The Indian Express": "company-specific",
+    "Indian stocks buck global tech rout, post best week in 6 years - Reuters": "company-specific",
+    "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services": "company-specific",
+    "TCS begins FY27 with continued growth; wins multiple AI transformation deals - Tata Consultancy Services": "company-specific",
+    "International Growth and Strategic Wins Underpin TCS\u2019 Q2 - Tata Consultancy Services": "company-specific",
+    "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session - Business Standard": "company-specific",
+    "Muhurat Trading 2026: Sensex, Nifty open higher in special session; Tata Steel, Sun Pharma shares among top gainers - Business Today": "company-specific",
+    "Wipro Launches AI Center of Excellence for Claude Models 2026 - Wipro": "UNKNOWN",
+    "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox": "company-specific"
   },
   "stats": {
-    "cache_hits": 3515,
-    "llm_calls": 116,
-    "screener_hits": 1758,
+    "cache_hits": 3534,
+    "llm_calls": 117,
+    "screener_hits": 1804,
     "nse_hits": 0
   },
   "earnings_dates": {
