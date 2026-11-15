@@ -795,12 +795,19 @@
     "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session - Business Standard": "company-specific",
     "Muhurat Trading 2026: Sensex, Nifty open higher in special session; Tata Steel, Sun Pharma shares among top gainers - Business Today": "company-specific",
     "Wipro Launches AI Center of Excellence for Claude Models 2026 - Wipro": "UNKNOWN",
-    "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox": "company-specific"
+    "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox": "company-specific",
+    "TCS\u2019 HyperVault to establish large-scale AI data center campus in Telangana - Tata Consultancy Services": "company-specific",
+    "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara - Business Standard": "company-specific",
+    "Indian stocks slip as oil, inflation cap weekly rally - Reuters": "company-specific",
+    "Top 14 Pharma Stocks To Buy In India November 2026 - Samco": "UNKNOWN",
+    "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points - The New Indian Express": "UNKNOWN",
+    "Sun Pharmaceutical Industries (NSEI:SUNPHARMA) Stock Forecast & Analyst Predictions - Simply Wall St": "UNKNOWN",
+    "Olam Group Strategic Transformation Engagement Won by Wipro 2026 - Wipro": "company-specific"
   },
   "stats": {
-    "cache_hits": 3534,
-    "llm_calls": 117,
-    "screener_hits": 1804,
+    "cache_hits": 3556,
+    "llm_calls": 120,
+    "screener_hits": 1850,
     "nse_hits": 0
   },
   "earnings_dates": {
